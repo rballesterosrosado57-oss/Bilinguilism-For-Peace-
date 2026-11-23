@@ -196,3 +196,85 @@ Se pueden utilizar listas de cotejo, observación, autoevaluación, trabajos art
 ---
 
 *Bilingüismo por la Paz: Learning English, building respect, and creating peaceful communities.*
+
+ 
+## 11. Banco ampliado de actividades
+
+Estas actividades pueden desarrollarse en sesiones de 15 a 35 minutos. Ajustar el tiempo según la edad, el nivel de inglés y las necesidades del grupo.
+
+| Actividad | Desarrollo | Lenguaje clave | Evidencia |
+|---|---|---|---|
+| Kindness Detectives | En parejas, observan una ilustración o historia e identifican tres acciones amables. | “I can see kindness because…” | Registro con dibujos o frases. |
+| Emotion Charades | Un estudiante representa una emoción; el grupo la identifica y propone una respuesta empática. | “You look sad. Can I help?” | Participación oral y vocabulario. |
+| Compliment Pass | Se pasa una pelota suave y cada estudiante ofrece un comentario positivo, respetuoso y específico. | “You are a good teammate.” | Mensajes orales positivos. |
+| Peace Comic Strip | Elaboran una historieta de tres viñetas: situación, respuesta segura y búsqueda de apoyo o solución. | “Please stop.” “I need help.” | Historieta con diálogos. |
+| My Peaceful School Map | Dibujan un mapa de la escuela e identifican espacios y adultos a quienes acudir para recibir apoyo. | “This is a safe place.” | Mapa comentado. |
+| Listening Mission | En parejas, uno habla sobre un tema cotidiano y el otro escucha y recupera una idea. | “I heard that you like…” | Resumen oral breve. |
+| Friendship Bridge | Los equipos construyen un puente de papel; cada pieza representa una acción de cooperación. | “We can share ideas.” | Puente y explicación grupal. |
+| 5-Day Kindness Garden | Durante cinco días registran acciones amables concretas, sin competir ni comparar estudiantes. | “Today I helped by…” | Jardín de flores y reflexión. |
+| Peace Story Builders | El grupo crea una historia colectiva sobre amistad, inclusión o pedir ayuda. | “Then…” “Finally…” | Historia ilustrada. |
+| Peaceful Choice Cards | Leen situaciones breves y seleccionan respuestas respetuosas y seguras. | “We should…” “I can ask for help.” | Tarjetas justificadas. |
+ 
+## 12. Secuencia didáctica sugerida
+
+Una sesión puede organizarse en cinco momentos flexibles:
+
+1. **Welcome and check-in (5 minutes):** saludo, pregunta emocional y repaso de una frase amable.
+2. **Language input (5–8 minutes):** presentar de 4 a 6 palabras con imágenes, gestos y pronunciación modelada.
+3. **Guided practice (8–10 minutes):** practicar expresiones con tarjetas, repetición, parejas o ejemplos.
+4. **Peace challenge (10–15 minutes):** juego, dramatización, creación artística o reto cooperativo.
+5. **Reflection and exit ticket (3–5 minutes):** completar “Today I learned…”, “I felt…” o “One kind action I can try is…”.
+
+La secuencia es orientativa; puede ampliarse o dividirse en varias clases.
+
+## 13. Diferenciación y apoyos para el aprendizaje
+
+- **Nivel inicial:** imágenes, gestos, tarjetas, banco de palabras, repetición coral, respuestas de una palabra y opción de dibujar.
+- **Nivel en desarrollo:** completar frases, diálogos guiados, preguntas y respuestas en parejas.
+- **Nivel avanzado:** justificar elecciones, crear diálogos, escribir finales alternativos y liderar una explicación grupal.
+- **Apoyos socioemocionales:** permitir que el estudiante pase su turno, escriba en vez de hablar o comparta con un compañero de confianza. No obligar a contar experiencias personales.
+- **Accesibilidad:** ofrecer letra legible, instrucciones cortas, ejemplos visibles, roles variados y materiales que puedan manipularse o escucharse.
+
+## 14. Materiales y preparación
+
+Materiales posibles: tarjetas ilustradas, hojas, colores, marcadores, cinta, papel reciclado, pelota suave, dados, cartulina, notas adhesivas, imágenes, cuentos breves y tablero. Antes de cada actividad, preparar el vocabulario clave, modelar las expresiones y explicar las reglas de respeto y participación.
+
+## 15. Evaluación ampliada: lista de cotejo
+
+Marcar **Yes / Sometimes / Not yet** durante las actividades. La evaluación debe describir avances, no etiquetar a los niños.
+
+| Indicador | Yes | Sometimes | Not yet |
+|---|---|---|---|
+| Recognizes key peace vocabulary. | ☐ | ☐ | ☐ |
+| Uses a kind expression in a classroom task. | ☐ | ☐ | ☐ |
+| Names or communicates a feeling appropriately. | ☐ | ☐ | ☐ |
+| Listens while another person speaks. | ☐ | ☐ | ☐ |
+| Cooperates and shares materials. | ☐ | ☐ | ☐ |
+| Identifies a safe adult to ask for help. | ☐ | ☐ | ☐ |
+| Suggests a respectful response to a simple situation. | ☐ | ☐ | ☐ |
+
+**Autoevaluación para estudiantes:**
+- One new English word I learned is: __________.
+- One kind action I practised is: __________.
+- Next time, I want to: __________.
+
+## 16. Participación de las familias y continuidad
+
+Enviar a casa retos sencillos y voluntarios que no requieran compras ni materiales especiales:
+- **Kind Word at Home:** enseñar a la familia una expresión amable en inglés.
+- **Family Listening Time:** escuchar durante unos minutos una historia o experiencia de un familiar.
+- **Community Helper Drawing:** dibujar a una persona que ayuda a la comunidad y escribir “Thank you for helping us”.
+- **Our Family Peace Promise:** crear un compromiso familiar breve y positivo.
+
+La participación familiar debe ser flexible y respetar las distintas realidades y configuraciones familiares.
+
+## 17. Cuidado, protección y enfoque restaurativo
+
+La educación para la paz no significa guardar silencio ante el daño, tolerar agresiones ni forzar reconciliaciones. En situaciones de intimidación, discriminación, violencia o riesgo:
+- Priorizar la seguridad y escuchar sin culpabilizar.
+- Informar y acudir a los adultos responsables y a los protocolos institucionales de protección.
+- No pedir a quien ha sufrido daño que confronte a la persona agresora, medie solo o perdone.
+- Evitar dramatizaciones que reproduzcan humillaciones, insultos o experiencias traumáticas.
+- Trabajar la responsabilidad, la reparación y la convivencia únicamente con acompañamiento adulto y cuando sea seguro y apropiado.
+
+**Principio orientador:** Every child deserves to feel safe, respected and included.
